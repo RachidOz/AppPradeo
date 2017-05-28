@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppPradeo</string>
+    <string name="title_activity_liste_jeux">ListeJeuxActivity</string>
+    <string name="title_activity_liste_applis">ListeApplisActivity</string>
+</resources>
